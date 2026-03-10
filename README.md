@@ -1,3 +1,5 @@
+Live Dashboard - https://public.tableau.com/app/profile/ven.anusuri/viz/CanadianBig5Banks-StockPerformanceDashboard/Dashboard1?publish=yes
+
 📌 Project Overview
 This project analyzes the stock performance of Canada's Big 5 banks — TD Bank, Royal Bank (RY), BMO, Scotiabank (BNS), and CIBC — over a 5-year period from March 2021 to March 2026.
 As a financial advisor with 3+ years of experience at TD Bank, I built this dashboard to combine my deep domain knowledge of the Canadian banking sector with data analytics skills. The goal was to tell a meaningful story about how Canadian banks performed through some of the most significant economic events in recent history.
